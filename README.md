@@ -1,5 +1,5 @@
 # Front-end Style Guide
-
+I got a challenge to recreate qr-code ui, using HTML5 + CSS here are guide for this qr
 ## Layout
 
 The designs were created to the following widths:
