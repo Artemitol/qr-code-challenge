@@ -1,3 +1,5 @@
+![image](https://github.com/Artemitol/qr-code-challenge/assets/148280392/66059069-76f2-4096-9e6e-215b660b0969)
+
 # Front-end Style Guide
 I got a challenge to recreate qr-code ui, using HTML5 + CSS here are guide for this qr
 ## Layout
